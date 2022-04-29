@@ -35,7 +35,7 @@ if __name__ == "__main__":
         print("There are four mode to choose from. Mode 1 is to input a string then you get a series of related movie titles about you input")
         print("In mode 2, you will get movie recommendation according to IMDb score about the results you get from mode 1. So you have to finish mode 1 to get into mode 2")
         print("In mode 3, you will get a word cloud iamage about the plots of the movies you serched beafore. Bigger fond represent higher frequency")
-        print("In mode 4, you need to input two names of actor or actress. Then you can get ")
+        print("In mode 4, you need to input two names of actor or actress. Then you can get Kevin Bacon numberer of these two actors, shorttes path between them and average Kevin Bacon number using your first input as start node ")
 
         user_input = input("Please select: 'mode 1', 'mode 3', 'mode 4' or 'quit' to continue. --")
         if user_input == "quit":
