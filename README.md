@@ -4,7 +4,7 @@ python: requests
 
 JavaScript: d3.layout.cloud.js, d3.v2.js
 # How to run this project
-My own API keys are included in keys.py. Due to rate limit of API. I suggest other uses to register their own API key. 
+My own API keys are included in keys.py. Due to rate limit of API. I suggest other users to register their own API key. 
 
 For first time running, run model.py to initialize info.sqlite for future use.
 
